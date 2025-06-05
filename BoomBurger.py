@@ -1,8 +1,12 @@
 ﻿#importacion de librerias
 import hashlib
 
+ 
 def REGISTRAR_USUARIOS():
     print("---REGISTRAR USUARIOS---")
+    
+    print("---Bienvenido a boom burguer---")
+    
     usuario = input("Nombre de usuario: ").strip()
     contraseña = input("Ingrese Contraseña: ").strip()
     confirmar = input("Confirme su contraseña: ").strip()
