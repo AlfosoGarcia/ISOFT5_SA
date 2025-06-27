@@ -47,3 +47,5 @@ while True:
         break
 
 print("Chris esta vomitando en el balcon")
+print("-----------------------------------")
+print("Vironche lo esta limpiando....")

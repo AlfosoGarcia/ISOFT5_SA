@@ -1,17 +1,5 @@
-## Quien es el CEO
-El CEO del Proyecto sera Mia Valentina Castañeda Maciel 
 
-## Quien es el arquitecto
-Sergio Alejandro Vironche Alvarez 
-
-## quien es el "SD-Front-End"
-Cristian Gabriel Rios Villegas
-Sergio Ayon de los santos Ayon
-## quien es el "SD-Back-End"
-Roberto Alfonso Ambriz Garcia
-Sergio Alejandro Vironche Alvarez
-# Plan de Desarrollo - Boom Burger App (12 semanas / 3 meses)
-
+# Resumen
 Este documento describe los 12 hitos principales para el desarrollo simulado de la app Boom Burger, distribuidos en 3 meses 4 semanas cada uno.
 
 
