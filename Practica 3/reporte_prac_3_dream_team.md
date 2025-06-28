@@ -152,3 +152,7 @@ Se logró el objetivo de la actividad, haciendo que todos los participantes tuvi
 **Roberto Alfonso Ambriz Garcia:**
 En esta actividad se muestra como el uso de listas y una estructura modular nos ayuda a un mejor orden y entendimiento, añadiendo un gran toque para finalizar la simulación.
 
+
+**Rios Villegas Christian Gabriel:**
+Se logró el objetivo de la actividad, igual se busco la forma de hacerlo mas dinámico 
+asi que utilizamos ciertas funciones que lo hicieron mas sencillo y dinamico 
