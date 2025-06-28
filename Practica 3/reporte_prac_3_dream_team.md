@@ -141,5 +141,9 @@ Muestra un mensaje final tras la simulación de los 4 ciclos.
 ## 10. Conclusiones
 **Sergio Jehosua De Los Santos Ayón:**
 Esta actividad nos dejo como aprendizale la gestion de recursos, ya que mientras una persona este usando el recurso puede saturar el programa ya que varios van a esperar el mismo recurso.
+
 **Sergio Alejandro Vironche Alvarez:**
 esta actividad la verdad estuvo super entretenida y chistosa y pues dentro de todo eso se obtuvo un gran aprendizaje.
+
+**Mia Valentina Castañeda Maciel:**
+Se logró el objetivo de la actividad, haciendo que todos los participantes tuvieran una actividad diferente en cada ciclo.
