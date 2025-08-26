@@ -1,1 +1,3 @@
 alfonso: Hamburguesa Clásica, Refresco - Total: $7.98
+roxas3: Hamburguesa Clásica, Refresco, Papas Fritas - Total: $10.47
+roxas3: Hamburguesa Clásica, Hamburguesa Doble, Papas Fritas, Refresco - Total: $18.46
